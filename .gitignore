@@ -1,0 +1,9 @@
+Pods/*
+upload_dsym_results
+.DS_Store
+*.xccheckout
+*.xcuserstate
+Carthage/*
+fastlane/*
+**/xcuserdata/*
+.idea

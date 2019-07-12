@@ -1,0 +1,15 @@
+//
+//  Debug.xcconfig
+//  MyProfile
+//
+//  Created by Girish Muchalambe on 01/07/19.
+//  Copyright © 2019 Girish Muchalambe. All rights reserved.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+MP_APP_NAME = My Profile QA
+MP_APP_VERSION = 1.0
+MP_APP_BUNDLE_ID = com.globant.MyProfileQA
+MP_APP_BUNDLE_VERSION = 1

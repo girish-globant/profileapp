@@ -1,0 +1,59 @@
+{
+    "personalInfo": {
+        "fullname": "Girish Muchalambe",
+        "email": "girish.muchalambe@globant.com",
+        "mobile": "9975253927"
+    },
+    "professionalSummary":{
+        "description":"Test professional summary",
+        "skillset":[]
+    },
+    "workExperience":{
+        "companies":[
+            {
+                "name": "Globant India",
+                "designation": "iOS Developer",
+                "duration": "Dec 2017 - Till Date",
+                "website": "https://www.globant.com/",
+                "jobSummery": "Write efficient, maintainable and reusable code prioritizing privacy and security. Simultaneously manage multiple projects and meet many strict deadlines. Created applications that interact with RESTful services and backends. Created reusable components that can be applied to iOS applications developed throughout the organization. Write technical documents, user guides and support documentation"
+                
+            },
+            {
+                "name": "Agile Software",
+                "designation": "Sr. iOS Developer",
+                "duration": "Dec 2014 - Dec 2017",
+                "website": "https://agsft.com/",
+                "jobSummery": "Created applications that interact with RESTful services and backends. Write efficient, maintainable and reusable code prioritizing privacy and security. Simultaneously manage multiple projects and meet many strict deadlines. Created reusable components that can be applied to iOS applications developed throughout the organization. Write technical documents, user guides and support documentation."
+            },
+            {
+                "name": "Yash Technology",
+                "designation": "iOS Consultant",
+                "duration": "Dec 2013 - Dec 2014",
+                "website": "https://www.yash.com/",
+                "jobSummery": "Simultaneously manage multiple projects and meet many strict deadlines. Created applications that interact with RESTful services and backends. Created reusable components that can be applied to iOS applications developed throughout the organization. Write technical documents, user guides and support documentation. Write efficient, maintainable and reusable code prioritizing privacy and security."
+                
+            },
+            {
+                "name": "Faichi Solutions",
+                "designation": "Sr. iOS Developer",
+                "duration": "Apr 2012 - Dec 2013",
+                "website": "https://www.faichi.com/",
+                "jobSummery": "Created reusable components that can be applied to iOS applications developed throughout the organization. Write technical documents, user guides and support documentation. Write efficient, maintainable and reusable code prioritizing privacy and security. Simultaneously manage multiple projects and meet many strict deadlines. Created applications that interact with RESTful services and backends."
+            }
+        ]
+    },
+    "education":{
+        "courses":[
+            {
+                "university": "Pune University, Pune, India",
+                "courseName": "Master of Computer Applications",
+                "duration": "2006 - 2009"
+            },
+            {
+                "university": "Shivaji University, Kolhapur, India",
+                "courseName": "Bachelor of Computer Science",
+                "duration": "2003-2006"
+            }
+        ]
+    }
+}

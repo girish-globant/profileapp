@@ -1,0 +1,16 @@
+/* 
+  Localizable.strings
+  MyProfile
+
+  Created by Girish Muchalambe on 27/06/19.
+  Copyright © 2019 Girish Muchalambe. All rights reserved.
+*/
+
+"noInternetConnection" = "No Internet Connection ... please try again";
+"APIFailed" = "Something went wrong...please try again";
+"emailAppError" = "Unable to open email app";
+"loadingMessage" = "Please wait ...";
+"sectionTitleSummary" = "Summary:";
+"sectionTitleSkills" = "Skills:";
+"sectionTitleWorkExperience" = "Work Experience:";
+"sectionTitleEducation" = "Education:";
