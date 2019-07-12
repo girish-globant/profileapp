@@ -9,7 +9,7 @@
 import Foundation
 struct Constanst{
     struct API {
-        static let baseURL = "https://raw.githubusercontent.com/girish-globant/code-test/master/"
+        static let baseURL = "https://raw.githubusercontent.com/girish-globant/profileapp/master/"
     }
     struct ProfileHeading{
         static let SUMMARY =  NSLocalizedString(Constanst.Localization.SECTION_TITLE_SUMMARY, comment: "")
